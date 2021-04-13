@@ -1,0 +1,13 @@
+C:\Users\johanna\source\repos\6 ejercico programacion\6 ejercico programacion\bin\Debug\netcoreapp3.1\6 ejercico programacion.exe
+C:\Users\johanna\source\repos\6 ejercico programacion\6 ejercico programacion\bin\Debug\netcoreapp3.1\6 ejercico programacion.deps.json
+C:\Users\johanna\source\repos\6 ejercico programacion\6 ejercico programacion\bin\Debug\netcoreapp3.1\6 ejercico programacion.runtimeconfig.json
+C:\Users\johanna\source\repos\6 ejercico programacion\6 ejercico programacion\bin\Debug\netcoreapp3.1\6 ejercico programacion.runtimeconfig.dev.json
+C:\Users\johanna\source\repos\6 ejercico programacion\6 ejercico programacion\bin\Debug\netcoreapp3.1\6 ejercico programacion.dll
+C:\Users\johanna\source\repos\6 ejercico programacion\6 ejercico programacion\bin\Debug\netcoreapp3.1\6 ejercico programacion.pdb
+C:\Users\johanna\source\repos\6 ejercico programacion\6 ejercico programacion\obj\Debug\netcoreapp3.1\6 ejercico programacion.csprojAssemblyReference.cache
+C:\Users\johanna\source\repos\6 ejercico programacion\6 ejercico programacion\obj\Debug\netcoreapp3.1\6 ejercico programacion.AssemblyInfoInputs.cache
+C:\Users\johanna\source\repos\6 ejercico programacion\6 ejercico programacion\obj\Debug\netcoreapp3.1\6 ejercico programacion.AssemblyInfo.cs
+C:\Users\johanna\source\repos\6 ejercico programacion\6 ejercico programacion\obj\Debug\netcoreapp3.1\6 ejercico programacion.csproj.CoreCompileInputs.cache
+C:\Users\johanna\source\repos\6 ejercico programacion\6 ejercico programacion\obj\Debug\netcoreapp3.1\6 ejercico programacion.dll
+C:\Users\johanna\source\repos\6 ejercico programacion\6 ejercico programacion\obj\Debug\netcoreapp3.1\6 ejercico programacion.pdb
+C:\Users\johanna\source\repos\6 ejercico programacion\6 ejercico programacion\obj\Debug\netcoreapp3.1\6 ejercico programacion.genruntimeconfig.cache

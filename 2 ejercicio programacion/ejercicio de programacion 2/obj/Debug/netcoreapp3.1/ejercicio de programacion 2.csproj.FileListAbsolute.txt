@@ -1,0 +1,13 @@
+C:\Users\johanna\source\repos\ejercicio de programacion 2\ejercicio de programacion 2\bin\Debug\netcoreapp3.1\ejercicio de programacion 2.exe
+C:\Users\johanna\source\repos\ejercicio de programacion 2\ejercicio de programacion 2\bin\Debug\netcoreapp3.1\ejercicio de programacion 2.deps.json
+C:\Users\johanna\source\repos\ejercicio de programacion 2\ejercicio de programacion 2\bin\Debug\netcoreapp3.1\ejercicio de programacion 2.runtimeconfig.json
+C:\Users\johanna\source\repos\ejercicio de programacion 2\ejercicio de programacion 2\bin\Debug\netcoreapp3.1\ejercicio de programacion 2.runtimeconfig.dev.json
+C:\Users\johanna\source\repos\ejercicio de programacion 2\ejercicio de programacion 2\bin\Debug\netcoreapp3.1\ejercicio de programacion 2.dll
+C:\Users\johanna\source\repos\ejercicio de programacion 2\ejercicio de programacion 2\bin\Debug\netcoreapp3.1\ejercicio de programacion 2.pdb
+C:\Users\johanna\source\repos\ejercicio de programacion 2\ejercicio de programacion 2\obj\Debug\netcoreapp3.1\ejercicio de programacion 2.csprojAssemblyReference.cache
+C:\Users\johanna\source\repos\ejercicio de programacion 2\ejercicio de programacion 2\obj\Debug\netcoreapp3.1\ejercicio de programacion 2.AssemblyInfoInputs.cache
+C:\Users\johanna\source\repos\ejercicio de programacion 2\ejercicio de programacion 2\obj\Debug\netcoreapp3.1\ejercicio de programacion 2.AssemblyInfo.cs
+C:\Users\johanna\source\repos\ejercicio de programacion 2\ejercicio de programacion 2\obj\Debug\netcoreapp3.1\ejercicio de programacion 2.csproj.CoreCompileInputs.cache
+C:\Users\johanna\source\repos\ejercicio de programacion 2\ejercicio de programacion 2\obj\Debug\netcoreapp3.1\ejercicio de programacion 2.dll
+C:\Users\johanna\source\repos\ejercicio de programacion 2\ejercicio de programacion 2\obj\Debug\netcoreapp3.1\ejercicio de programacion 2.pdb
+C:\Users\johanna\source\repos\ejercicio de programacion 2\ejercicio de programacion 2\obj\Debug\netcoreapp3.1\ejercicio de programacion 2.genruntimeconfig.cache

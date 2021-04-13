@@ -1,0 +1,13 @@
+C:\Users\johanna\source\repos\3 ejercicio de programacion\3 ejercicio de programacion\bin\Debug\netcoreapp3.1\3 ejercicio de programacion.exe
+C:\Users\johanna\source\repos\3 ejercicio de programacion\3 ejercicio de programacion\bin\Debug\netcoreapp3.1\3 ejercicio de programacion.deps.json
+C:\Users\johanna\source\repos\3 ejercicio de programacion\3 ejercicio de programacion\bin\Debug\netcoreapp3.1\3 ejercicio de programacion.runtimeconfig.json
+C:\Users\johanna\source\repos\3 ejercicio de programacion\3 ejercicio de programacion\bin\Debug\netcoreapp3.1\3 ejercicio de programacion.runtimeconfig.dev.json
+C:\Users\johanna\source\repos\3 ejercicio de programacion\3 ejercicio de programacion\bin\Debug\netcoreapp3.1\3 ejercicio de programacion.dll
+C:\Users\johanna\source\repos\3 ejercicio de programacion\3 ejercicio de programacion\bin\Debug\netcoreapp3.1\3 ejercicio de programacion.pdb
+C:\Users\johanna\source\repos\3 ejercicio de programacion\3 ejercicio de programacion\obj\Debug\netcoreapp3.1\3 ejercicio de programacion.csprojAssemblyReference.cache
+C:\Users\johanna\source\repos\3 ejercicio de programacion\3 ejercicio de programacion\obj\Debug\netcoreapp3.1\3 ejercicio de programacion.AssemblyInfoInputs.cache
+C:\Users\johanna\source\repos\3 ejercicio de programacion\3 ejercicio de programacion\obj\Debug\netcoreapp3.1\3 ejercicio de programacion.AssemblyInfo.cs
+C:\Users\johanna\source\repos\3 ejercicio de programacion\3 ejercicio de programacion\obj\Debug\netcoreapp3.1\3 ejercicio de programacion.csproj.CoreCompileInputs.cache
+C:\Users\johanna\source\repos\3 ejercicio de programacion\3 ejercicio de programacion\obj\Debug\netcoreapp3.1\3 ejercicio de programacion.dll
+C:\Users\johanna\source\repos\3 ejercicio de programacion\3 ejercicio de programacion\obj\Debug\netcoreapp3.1\3 ejercicio de programacion.pdb
+C:\Users\johanna\source\repos\3 ejercicio de programacion\3 ejercicio de programacion\obj\Debug\netcoreapp3.1\3 ejercicio de programacion.genruntimeconfig.cache
